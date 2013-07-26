@@ -155,7 +155,9 @@
     <Content Include="bin\MySql.Data.dll" />
     <Content Include="bin\PhpNetClassLibrary.dll" />
     <Content Include="bin\PhpNetCore.dll" />
+    <Content Include="bin\PhpNetCurl.dll" />
     <Content Include="bin\PhpNetMySql.dll" />
+    <Content Include="bin\PhpNetZlib.dll" />
     <Content Include="bin\WpDotNet.dll" />
     <Content Include="Global.asax" />
     <Content Include="index.php" />
