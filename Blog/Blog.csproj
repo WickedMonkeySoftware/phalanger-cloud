@@ -619,6 +619,7 @@
     <Content Include="wp-blog-header.php" />
     <Content Include="wp-comments-post.php" />
     <Content Include="wp-config-sample.php" />
+    <Content Include="wp-config.php" />
     <Content Include="wp-content\index.php" />
     <Content Include="wp-content\mu-plugins\wpdotnet.php" />
     <Content Include="wp-content\plugins\akismet\admin.php" />
